@@ -140,3 +140,6 @@ ul{
         width: 100%;
         height: auto;
     }
+    .links{
+        align-items: center;
+    }
