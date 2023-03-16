@@ -34,6 +34,7 @@ color:#3F497F;
 #poza{
     display: flex;
     align-self: center;
+    justify-content: center;
     flex-wrap: wrap;}
 .harta img{
 
